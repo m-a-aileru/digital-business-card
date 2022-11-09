@@ -1,7 +1,12 @@
-import React from "react";
+import logo from "../images/logo192.png"
+// import logo from "../screen.png"
 
-export default function ProfileImage() {
-    return <img src="./logo512.png" alt="Profile pic" />;
+const ProfileImage = () => {
+    return (
+        <>
+            <img src={logo} alt="Placeholder for portrait" class="" />
+        </>
+    )
 }
-  
 
+export default ProfileImage
