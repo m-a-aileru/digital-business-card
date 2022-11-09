@@ -1,5 +1,4 @@
-DIGITAL BUSINESS CARD
-
+DIGITAL BUSINESS CARD (this version is attempt number 2 after quite a hiatus from learning about React)
 
 [What is it?]
 
